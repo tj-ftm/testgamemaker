@@ -1,0 +1,12 @@
+{
+  "name": "tinhatcatter-game",
+  "version": "1.0.0",
+  "description": "Tinhatcatter HTML5 Game",
+  "scripts": {
+    "build": "echo 'Static site - no build needed' && exit 0",
+    "start": "echo 'Static site - serve index.html'"
+  },
+  "keywords": ["game", "html5", "gamemaker"],
+  "author": "",
+  "license": "ISC"
+}
